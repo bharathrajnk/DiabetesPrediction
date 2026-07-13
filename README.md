@@ -1,9 +1,3 @@
-![image alt]([i](https://github.com/bharathrajnk/DiabetesPrediction/blob/ea11be7cb7b76136ec23f5de9e4db28aa0952797/Screenshot%202026-07-13%20082528.png))
-![image alt](i)
-![image alt](i)
-![image alt](i)
-![image alt](i)
-![image alt](i)
 # AI Powered Diabetes Prediction System
 
 A modern, responsive, production-ready Prediabetes & Diabetes Risk Prediction Web Application. Built with React (Vite), Tailwind CSS, Framer Motion, and a Flask Python backend running a Scikit-Learn Machine Learning model.
