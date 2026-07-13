@@ -1,6 +1,4 @@
-![image alt]([Screenshot 2026-07-13 082528.png](https://github.com/bharathrajnk/DiabetesPrediction/blob/master/Screenshot%202026-07-13%20082528.png?raw=true))
-![image alt](i)
-![image alt](i)
+![image alt]([i](https://github.com/bharathrajnk/DiabetesPrediction/blob/ea11be7cb7b76136ec23f5de9e4db28aa0952797/Screenshot%202026-07-13%20082528.png))
 ![image alt](i)
 ![image alt](i)
 ![image alt](i)
