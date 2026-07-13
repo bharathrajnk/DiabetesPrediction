@@ -114,5 +114,4 @@ npm run dev
 - User Authentication (JWT based).
 - Batch CSV upload for multiple predictions.
 
-## License
-MIT License
+
